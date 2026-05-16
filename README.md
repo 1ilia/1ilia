@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🌱A young programmer with big ideas!<br>⚡I'm currently programming with Python.
+🌱I'm a University Student passionate about software development, solving algorithmic challenges, and exploring low-level and high-level programming.
 
 
 ## 🌐 Socials:
